@@ -1,5 +1,7 @@
 # tr-manual-uninstaller
 
+## The official has released an official solution to delete game files: https://talesrunner.thehof.gg/news/howto-download-th
+
 https://github.com/user-attachments/assets/0e635529-9fc1-48b2-8e68-025bd57462b3
 
 ## Overview
