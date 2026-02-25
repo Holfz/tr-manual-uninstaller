@@ -1,6 +1,8 @@
 # tr-manual-uninstaller
 
-<video src="preview.mp4" controls></video>
+
+https://github.com/user-attachments/assets/82cec5f6-aa89-4d53-893c-4b2706e0f4d7
+
 
 ## Overview
 
