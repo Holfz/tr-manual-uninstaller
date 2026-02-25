@@ -1,8 +1,6 @@
 # tr-manual-uninstaller
 
-
-https://github.com/user-attachments/assets/82cec5f6-aa89-4d53-893c-4b2706e0f4d7
-
+https://github.com/user-attachments/assets/0e635529-9fc1-48b2-8e68-025bd57462b3
 
 ## Overview
 
