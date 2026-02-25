@@ -66,7 +66,13 @@ if (process.platform !== "win32") {
       }
 
       // Iterate over each entry in the drive root
-      for (const entry of entries) {
+      for (let i = 0; i < entries.length; i++) {
+         const entry = entries[i];
+
+         // Update spinner with scan progress and yield to event loop so it can repaint
+         spinner.text = `Scanning ${drive} ... (Current File: ${entry}) [${i + 1}/${entries.length}]`;
+         await new Promise((resolve) => setImmediate(resolve));
+
          // Check if the file name matches a known TR file
          const known = trFiles.get(entry.toLowerCase());
 
