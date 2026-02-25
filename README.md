@@ -1,6 +1,6 @@
 # tr-manual-uninstaller
 
-## THE OFFICIAL HAS RELEASED AN OFFICIAL SOLUTION TO DELETE GAME FIELS: https://talesrunner.thehof.gg/news/howto-download-th; THIS IS AN UNOFFICIAL SOLUTION AND SHOULD NOT BE USED.
+## THE OFFICIAL HAS RELEASED AN OFFICIAL SOLUTION TO DELETE GAME FILES: https://talesrunner.thehof.gg/news/howto-download-th; THIS IS AN UNOFFICIAL SOLUTION AND SHOULD NOT BE USED.
 
 https://github.com/user-attachments/assets/0e635529-9fc1-48b2-8e68-025bd57462b3
 
